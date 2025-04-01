@@ -36,7 +36,7 @@
         <section id="pyq">
             <h2>Previous Question Paper</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1Q3PVflQipZgRCmupWnzEuxreeXXUY7Td/view?usp=sharing">XI Question Bank 11</a></li>
+                <li><a href="https://drive.google.com/file/d/1Q3PVflQipZgRCmupWnzEuxreeXXUY7Td/view?usp=sharing">XI Question Bank 1</a></li>
                 <li><a href="https://drive.google.com/file/d/1bg92ksFB56C40yUquop93jpMxWMg4K9L/view?usp=sharing">XI Question Bank 2</a></li>
                 <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">Practice Paper 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1vUMKqntcSPDi9XN9_ovWYLWMQpZDZLbt/view?usp=sharing">Model Ans.Practice Paper 01</a></li>
