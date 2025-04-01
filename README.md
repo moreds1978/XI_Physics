@@ -33,16 +33,11 @@
         </nav>
     </header>
     <main>
-        <section id="Question Bank XII">
-            <h2>XII Science</h2>
-            <ul>
-                <li><a href="https://drive.google.com/file/d/1Q3PVflQipZgRCmupWnzEuxreeXXUY7Td/view?usp=sharing">XI Science01</a></li>
-                <li><a href="https://drive.google.com/file/d/1bg92ksFB56C40yUquop93jpMxWMg4K9L/view?usp=sharing">XI Science02</a></li>
-            </ul>
-        </section>
         <section id="pyq">
             <h2>Previous Question Paper</h2>
             <ul>
+                <li><a href="https://drive.google.com/file/d/1Q3PVflQipZgRCmupWnzEuxreeXXUY7Td/view?usp=sharing">XI Science01</a></li>
+                <li><a href="https://drive.google.com/file/d/1bg92ksFB56C40yUquop93jpMxWMg4K9L/view?usp=sharing">XI Science02</a></li>
                 <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">Practice Paper 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1vUMKqntcSPDi9XN9_ovWYLWMQpZDZLbt/view?usp=sharing">Model Ans.Practice Paper 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1wmBqJwWHtgZb61EA5GuVFYSF78Vp2cpx/view?usp=sharing">Practice Paper 02</a></li>
